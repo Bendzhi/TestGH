@@ -1,7 +1,8 @@
 function person(){
 
     let name = 'Bendzhi'
-    console.log(name);
+    let age = 8
+    console.log(name,age);
     
 }
 person()
